@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "My First Project",
+        "description": "A simple React project.",
+        "link": ""
+    },
+    {
+        "id": 2,
+        "name": "My Second Project",
+        "description": "A more advanced project.",
+        "link": ""
+    },
+    {
+        "id": 3,
+        "name": "My Third Project",
+        "description": "A project that I'm really proud of.",
+        "link": ""
+    }
+]
